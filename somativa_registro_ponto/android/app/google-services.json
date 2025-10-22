@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "297478124881",
+    "project_id": "registrodeponto-77f8f",
+    "storage_bucket": "registrodeponto-77f8f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297478124881:android:730b6690799eb041e20f70",
+        "android_client_info": {
+          "package_name": "com.example.somativa_registro_ponto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAii0wiLB1N-7QUtuXhnrz8roIursUPpMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

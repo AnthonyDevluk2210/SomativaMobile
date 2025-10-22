@@ -59,4 +59,5 @@ class DefaultFirebaseOptions {
     projectId: 'registrodeponto-77f8f',
     storageBucket: 'registrodeponto-77f8f.firebasestorage.app',
   );
+
 }
